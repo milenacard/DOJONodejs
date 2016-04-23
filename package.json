@@ -1,0 +1,11 @@
+{
+  "name": "Nodejs",
+  "version": "0.0.0",
+  "description": "DOJO NodeJs Empresariales",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Milena Cardenas",
+  "license": "ISC"
+}
